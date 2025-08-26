@@ -35,7 +35,7 @@ if (caracteristica1 == 'invertebrado') {
                 }
         }
         if (caracteristica2 == 'inseto') {
-            let caracteristica3 = leia.question('Hematofoago ou herbivoro? ');
+            let caracteristica3 = leia.question('Hematofago ou herbivoro? ');
                 if (caracteristica3 == 'hematofago') {
                     console.log('Pulga');
                 } else {
